@@ -1,7 +1,6 @@
 name: Bug report
 description: Create a new bug report
 labels: [ 'needs triage', 'prio: medium' ]
-type: Bug
 
 body:
 
