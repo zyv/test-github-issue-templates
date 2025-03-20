@@ -31,13 +31,12 @@ body:
     validations:
       required: true
 
-  - type: textarea
+  - type: input
     id: mc-os
     attributes:
       label: Operating system
       description: What operating system do you use?
       placeholder: Output of `uname -a`
-      render: shell
     validations:
       required: true
 
